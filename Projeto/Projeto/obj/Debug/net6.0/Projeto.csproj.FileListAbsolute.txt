@@ -1,0 +1,15 @@
+C:\Workspace\Produtividade_Com_CSharp\Projeto\Projeto\bin\Debug\net6.0\Projeto.exe
+C:\Workspace\Produtividade_Com_CSharp\Projeto\Projeto\bin\Debug\net6.0\Projeto.deps.json
+C:\Workspace\Produtividade_Com_CSharp\Projeto\Projeto\bin\Debug\net6.0\Projeto.runtimeconfig.json
+C:\Workspace\Produtividade_Com_CSharp\Projeto\Projeto\bin\Debug\net6.0\Projeto.dll
+C:\Workspace\Produtividade_Com_CSharp\Projeto\Projeto\bin\Debug\net6.0\Projeto.pdb
+C:\Workspace\Produtividade_Com_CSharp\Projeto\Projeto\obj\Debug\net6.0\Projeto.csproj.AssemblyReference.cache
+C:\Workspace\Produtividade_Com_CSharp\Projeto\Projeto\obj\Debug\net6.0\Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Produtividade_Com_CSharp\Projeto\Projeto\obj\Debug\net6.0\Projeto.AssemblyInfoInputs.cache
+C:\Workspace\Produtividade_Com_CSharp\Projeto\Projeto\obj\Debug\net6.0\Projeto.AssemblyInfo.cs
+C:\Workspace\Produtividade_Com_CSharp\Projeto\Projeto\obj\Debug\net6.0\Projeto.csproj.CoreCompileInputs.cache
+C:\Workspace\Produtividade_Com_CSharp\Projeto\Projeto\obj\Debug\net6.0\Projeto.dll
+C:\Workspace\Produtividade_Com_CSharp\Projeto\Projeto\obj\Debug\net6.0\refint\Projeto.dll
+C:\Workspace\Produtividade_Com_CSharp\Projeto\Projeto\obj\Debug\net6.0\Projeto.pdb
+C:\Workspace\Produtividade_Com_CSharp\Projeto\Projeto\obj\Debug\net6.0\Projeto.genruntimeconfig.cache
+C:\Workspace\Produtividade_Com_CSharp\Projeto\Projeto\obj\Debug\net6.0\ref\Projeto.dll
