@@ -1,0 +1,15 @@
+C:\Workspace\Produtividade_Com_CSharp\Projeto\Trablhando_Com_Strings\bin\Debug\net6.0\Trabalhando_Com_Strings.exe
+C:\Workspace\Produtividade_Com_CSharp\Projeto\Trablhando_Com_Strings\bin\Debug\net6.0\Trabalhando_Com_Strings.deps.json
+C:\Workspace\Produtividade_Com_CSharp\Projeto\Trablhando_Com_Strings\bin\Debug\net6.0\Trabalhando_Com_Strings.runtimeconfig.json
+C:\Workspace\Produtividade_Com_CSharp\Projeto\Trablhando_Com_Strings\bin\Debug\net6.0\Trabalhando_Com_Strings.dll
+C:\Workspace\Produtividade_Com_CSharp\Projeto\Trablhando_Com_Strings\bin\Debug\net6.0\Trabalhando_Com_Strings.pdb
+C:\Workspace\Produtividade_Com_CSharp\Projeto\Trablhando_Com_Strings\obj\Debug\net6.0\Trabalhando_Com_Strings.csproj.AssemblyReference.cache
+C:\Workspace\Produtividade_Com_CSharp\Projeto\Trablhando_Com_Strings\obj\Debug\net6.0\Trabalhando_Com_Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Produtividade_Com_CSharp\Projeto\Trablhando_Com_Strings\obj\Debug\net6.0\Trabalhando_Com_Strings.AssemblyInfoInputs.cache
+C:\Workspace\Produtividade_Com_CSharp\Projeto\Trablhando_Com_Strings\obj\Debug\net6.0\Trabalhando_Com_Strings.AssemblyInfo.cs
+C:\Workspace\Produtividade_Com_CSharp\Projeto\Trablhando_Com_Strings\obj\Debug\net6.0\Trabalhando_Com_Strings.csproj.CoreCompileInputs.cache
+C:\Workspace\Produtividade_Com_CSharp\Projeto\Trablhando_Com_Strings\obj\Debug\net6.0\Trabalhando_Com_Strings.dll
+C:\Workspace\Produtividade_Com_CSharp\Projeto\Trablhando_Com_Strings\obj\Debug\net6.0\refint\Trabalhando_Com_Strings.dll
+C:\Workspace\Produtividade_Com_CSharp\Projeto\Trablhando_Com_Strings\obj\Debug\net6.0\Trabalhando_Com_Strings.pdb
+C:\Workspace\Produtividade_Com_CSharp\Projeto\Trablhando_Com_Strings\obj\Debug\net6.0\Trabalhando_Com_Strings.genruntimeconfig.cache
+C:\Workspace\Produtividade_Com_CSharp\Projeto\Trablhando_Com_Strings\obj\Debug\net6.0\ref\Trabalhando_Com_Strings.dll
